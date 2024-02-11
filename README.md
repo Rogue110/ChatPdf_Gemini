@@ -1,4 +1,4 @@
-# GeminiAPI Streamlit Project
+# ChatPDF using GEMINI
 
 ## Overview
 This Python project leverages the Gemini API for cryptocurrency data retrieval and analysis. 
@@ -23,5 +23,5 @@ the project utilizes several libraries to enhance functionality, including `goog
 - **langchain_google_genai**: Custom library for seamless integration of Google Generative AI and LangChain capabilities.
 
 
-##Contributing
+## Contributing
 Feel free to contribute by submitting bug reports, feature requests, or pull requests. Your contributions are highly appreciated!
